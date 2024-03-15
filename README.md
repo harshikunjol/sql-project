@@ -30,4 +30,4 @@ Utilize SQL queries to interact with the database and perform various tasks with
 10.Generate a report on the total fines collected for overdue books.
 
 # Contributing
-    Contributions are welcome! Feel free to open an issue or submit a pull request for any enhancements or bug fixes. We appreciate your help in improving the Library Database Management System project.
+    Contributions to the Library Database Management System project are encouraged and appreciated. Whether it's bug fixes, feature enhancements, or suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions help make the system more robust and user-friendly for library administrators and patrons alike. Thank you for your support!
