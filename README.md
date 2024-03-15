@@ -1,9 +1,9 @@
 
 # Library Management System
-    Welcome to the Library Management System project repository. This project is designed to help manage the operations of a library, including tracking information about books, employees, customers, and book issuances and returns.
+Welcome to the Library Management System project repository. This project is designed to help manage the operations of a library, including tracking information about books, employees, customers, and book issuances and returns.
 
 # Description
-    The Library Database Management System is a comprehensive solution designed to streamline the operations of a library. It facilitates efficient management of books, patrons, transactions, and administrative tasks. This system provides librarians and administrators with tools to catalog books, manage memberships, track borrowing and returning activities, generate reports, and more.
+The Library Database Management System is a comprehensive solution designed to streamline the operations of a library. It facilitates efficient management of books, patrons, transactions, and administrative tasks. This system provides librarians and administrators with tools to catalog books, manage memberships, track borrowing and returning activities, generate reports, and more.
 
 # Features
 This project consists of a database schema and SQL queries to perform various operations within a library environment. The database includes the following tables:
@@ -28,7 +28,7 @@ This project consists of a database schema and SQL queries to perform various op
   employees.
   
 # Contribution
-    Contributions to the Library Database Management System project are encouraged and appreciated. Whether it's bug fixes, feature enhancements, or suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions help make the system more robust and user-friendly for library administrators and patrons alike. Thank you for your support!
+Contributions to the Library Database Management System project are encouraged and appreciated. Whether it's bug fixes, feature enhancements, or suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions help make the system more robust and user-friendly for library administrators and patrons alike. Thank you for your support!
 
 # Conclusion
-    In conclusion, this Library Management System project provides an efficient solution for organizing and managing library resources. Through the use of MySQL and SQL queries, the system effectively handles book management, employee tracking, customer records, and transaction management. With its user-friendly interface and comprehensive features, it streamlines library operations and enhances user experience. 
+In conclusion, this Library Management System project provides an efficient solution for organizing and managing library resources. Through the use of MySQL and SQL queries, the system effectively handles book management, employee tracking, customer records, and transaction management. With its user-friendly interface and comprehensive features, it streamlines library operations and enhances user experience. 
