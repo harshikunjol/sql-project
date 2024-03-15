@@ -14,7 +14,7 @@ This project consists of a database schema and SQL queries to perform various op
 5. **IssueStatus**: Records of books issued to customers including issue ID, customer ID, book name, and issue date.
 6. **ReturnStatus**: Records of books returned by customers including return ID, customer ID, book name, and return date.
 
-# ***Queries***
+# Queries
 - Retrieve book title, category, and rental price of available books.
 - ist employee names and salaries in descending order of salary.
 - Retrieve book titles and corresponding customers who have issued those books.
