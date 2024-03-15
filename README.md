@@ -26,21 +26,7 @@ This project consists of a database schema and SQL queries to perform various op
 - Retrieve book titles containing "history".
 - Retrieve branch numbers along with count of employees for branches having more than 5 
   employees.
-
-# ***Additional Tasks Implemented***
-- Explore the following queries to retrieve specific information from the database:
-
-- Retrieve the list of available books along with their titles, authors, and categories.
-- Display the details of patrons who have borrowed books, including their names, contact information, and borrowed book titles.
-- Generate a report on the total number of books in each genre category.
-- List the most borrowed books along with the corresponding patron details.
-- Display the names and contact information of patrons who have overdue books.
-- Retrieve information on popular authors based on the number of books borrowed.
-- Generate a report on the average borrowing duration for each book category.
-- List the patrons who have borrowed books written by a specific author.
-- Display the total number of books borrowed by each patron.
-- Generate a report on the total fines collected for overdue books.
-- 
+  
 # Contribution
 Contributions to the Library Database Management System project are encouraged and appreciated. Whether it's bug fixes, feature enhancements, or suggestions for improvements, feel free to open an issue or submit a pull request. Your contributions help make the system more robust and user-friendly for library administrators and patrons alike. Thank you for your support!
 
